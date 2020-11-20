@@ -9,5 +9,5 @@
 * MapKit
 
 ## イメージ
-<img src="https://user-images.githubusercontent.com/52473279/97835838-64a9b500-1d1e-11eb-9e64-f506f7962a46.png" width="px">
+<img src="https://user-images.githubusercontent.com/52473279/97835838-64a9b500-1d1e-11eb-9e64-f506f7962a46.png" width="400px">
 
